@@ -1,1 +1,2 @@
 # My-first-internal-audit
+This activity, titled 'My first internal audit,' is part of the Google Cybersecurity course. As an entry-level analyst, my task was to review the IT manager’s scope, goals, and risk assessment report. This involved comparing and analyzing the information provided in the report against a compliance checklist to identify areas of strength and areas needing improvement in the organization's security posture.
